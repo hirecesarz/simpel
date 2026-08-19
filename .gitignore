@@ -307,4 +307,7 @@ pip-selfcheck.json
 .history
 .ionide
 
+### Kilo ###
+.kilo/
+
 # End of https://www.toptal.com/developers/gitignore/api/linux,python,pycharm+all,venv,visualstudiocode
